@@ -7,10 +7,11 @@
 ![Scss](https://img.shields.io/badge/Scss-green?style=flat-square&logo=Sass&logoColor=CC6699)
 ![JavaScript](https://img.shields.io/badge/javascript-66595C?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery)
+<!--
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-white?style=flat&logo=Bitbucket&logoColor=0052CC)
 ![Jira](https://img.shields.io/badge/Jira-green?style=flat&logo=Jira&logoColor=0052CC)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
+-->
 
 ## :mailbox: How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-E84D3D?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juyeonglee0413@gmail.com)](mailto:hyoni7489@gmail.com)
