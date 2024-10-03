@@ -7,7 +7,7 @@
 ![Scss](https://img.shields.io/badge/Scss-green?style=flat-square&logo=Sass&logoColor=CC6699)
 ![JavaScript](https://img.shields.io/badge/javascript-66595C?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 <!--
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-white?style=flat&logo=Bitbucket&logoColor=0052CC)
 ![Jira](https://img.shields.io/badge/Jira-green?style=flat&logo=Jira&logoColor=0052CC)
