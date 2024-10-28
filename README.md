@@ -5,8 +5,8 @@
 ![HTML](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3)
 ![Scss](https://img.shields.io/badge/Scss-green?style=flat-square&logo=Sass&logoColor=CC6699)
-![JavaScript](https://img.shields.io/badge/javascript-66595C?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery)
+![JavaScript](https://img.shields.io/badge/javascript-66595C?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 <!--
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-white?style=flat&logo=Bitbucket&logoColor=0052CC)
